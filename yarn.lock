@@ -1388,13 +1388,12 @@
     ts-loader "^8.0.14"
     typescript "~4.1"
 
-"@nuxt/typescript-runtime@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@nuxt/typescript-runtime/-/typescript-runtime-2.0.1.tgz#a04c56caa980ef26fb214cfa9fc8a5de6133ba46"
-  integrity sha512-7yDI9v56E3P3D8oTEv2iprIbh5rTSBeC53lpiPfTgWq57X3ZE0U3EMbmeBezr8y1/kXO59HxSuNNlyzAvwyugg==
+"@nuxt/typescript-runtime@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/typescript-runtime/-/typescript-runtime-3.0.1.tgz#5f6add88e0c50ae67ef84ef92706c0bac0c57b89"
+  integrity sha512-tBnnxqRyx056B1/oWwnEOl7JLeF9WVXE4nxfCYpyq2B+ujIftt537KWyhKGBISHJpGR4NaBiRT+AF47B3U+h+w==
   dependencies:
-    ts-node "^9.1.1"
-    typescript "~4.1"
+    ts-node "9.1.1"
 
 "@nuxt/utils-edge@2.15.0-26856070.08350560":
   version "2.15.0-26856070.8350560"
@@ -11317,7 +11316,7 @@ ts-loader@^8.0.14:
     micromatch "^4.0.0"
     semver "^7.3.4"
 
-ts-node@^9.1.1:
+ts-node@9.1.1:
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-9.1.1.tgz#51a9a450a3e959401bda5f004a72d54b936d376d"
   integrity sha512-hPlt7ZACERQGf03M253ytLY3dHbGNGrAq9qIHWUY9XHYl1z7wYngSr3OQ5xmui8o2AaxsONxIzjafLUiWBo1Fg==
